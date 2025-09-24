@@ -65,8 +65,8 @@ def main():
         "yayinex5": "Tâbii 5",
         "yayinex6": "Tâbii 6",
         "yayinex7": "Tâbii 7",
-        "yayinex8": "Tâbii 8"
-        "yayintrt1": "TRT1"
+        "yayinex8": "Tâbii 8",
+        "yayintrt1": "TRT1",
     }
     
     # Klasör işlemleri
