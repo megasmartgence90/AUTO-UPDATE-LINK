@@ -14,8 +14,8 @@ def main():
     base = "https://trgoals"
     domain = ""
     
-    print("\n🔍 Domain aranıyor: trgoals1393.xyz → trgoals1430.xyz")
-    for i in range(1393, 1430):
+    print("\n🔍 Domain aranıyor: trgoals.xyz → trgoals.xyz")
+    for i in range(1393, 2101):
         test_domain = f"{base}{i}.xyz"
         try:
             response = requests.head(test_domain, timeout=3)
