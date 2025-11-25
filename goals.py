@@ -67,6 +67,8 @@ def main():
         "yayinex7": "Tâbii 7",
         "yayinex8": "Tâbii 8",
         "yayintrt1": "TRT1",
+        "yayineu1": "Euro Sport 1",
+        "yayineu2": "Euro Sport 2",
     }
     
     # Klasör işlemleri
