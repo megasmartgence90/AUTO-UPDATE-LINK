@@ -123,7 +123,7 @@ def main():
             
             baseurl = match.group(1)
             encoded_url = quote(f"{baseurl}{channel_id}.m3u8", safe='')
-            full_url = f"http://proxylendim101010.mywire.org/proxy.php?url={encoded_url}"
+            full_url = f"http://palxlendimgaliba1010.mywire.org/proxy.php?url={encoded_url}"
             
             content = f"""#EXTM3U
 #EXT-X-VERSION:3
